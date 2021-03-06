@@ -8,7 +8,7 @@ I made a script to run on background when system is started.
 
 Add the next line to your script:
 
-devmon --exec-on-device <DEVICE> "rsync -r --update <local folder to copy> <usb folder to copy on it> " &
+devmon --exec-on-device ___DEVICE___ "rsync -r --update ___local folder to copy___  ___usb folder to copy on it___ " &
   
 As you can see this script use rsync, so in case your system doesnt has it, install it with your package manager.
 
