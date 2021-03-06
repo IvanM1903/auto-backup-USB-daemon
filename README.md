@@ -17,7 +17,7 @@ As you can see this script use rsync, so in case your system doesnt has it, inst
 
 The script file can be found on this repository. Change the parameters listed before and enjoy it :)
 
-#How to make it run on background
+# How to make it run on background
 
 You have to set up your script on ~/.config/autostart-scripts/
 
